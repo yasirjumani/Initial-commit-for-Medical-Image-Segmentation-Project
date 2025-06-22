@@ -58,16 +58,25 @@ dataset/
 
 .
 ├── dataset/
+
 ├── output/
+
 ├── visualizations/
+
 ├── train_model.py
+
 ├── evaluate_model.py
+
 ├── analyze_predictions.py
-├── plot_losses.py
+
 ├── requirements.txt
+
 ├── report.tex
+
 ├── report.pdf
+
 ├── README.md
+
 └── .gitignore
 
 
