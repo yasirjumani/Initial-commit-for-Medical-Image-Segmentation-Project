@@ -1,0 +1,32 @@
+# Python virtual environments
+venv/
+new_venv/
+
+# OS-specific files
+.DS_Store
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Large data/model files (CRUCIAL for ML projects)
+dataset/
+output/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Logs and temporary files
+*.log
+loss_curves.png
+
+# Archive files (often contain large data)
+*.zip
+*.rar
+*.tar.gz
+
+# IDE and editor specific files/folders
+.vscode/
+.idea/
+
