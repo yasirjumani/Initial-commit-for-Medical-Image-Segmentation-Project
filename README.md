@@ -42,10 +42,15 @@ Directory structure:
 
 dataset/
 ├── ISIC2018_Task1-2_Training_Input/
+
 ├── ISIC2018_Task1_Training_GroundTruth/
+
 ├── ISIC2018_Task1-2_Validation_Input/
+
 ├── ISIC2018_Task1_Validation_GroundTruth/
+
 ├── ISIC2018_Task1-2_Test_Input/
+
 └── ISIC2018_Task1_Test_GroundTruth/
 
 
